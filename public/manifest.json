@@ -1,0 +1,14 @@
+{
+  "name": "genial",
+  "description": "Open tabs in one click",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "My Apps",
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "logo192.png",
+      "48": "logo512.png"
+    }
+  }
+}
